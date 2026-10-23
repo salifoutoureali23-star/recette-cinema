@@ -1,0 +1,45 @@
+Age 11 à 15 : 5 billets à 1500 FCFA = 7500 FCFA
+Vous avez 11 ans, et votre billet est de 1500 FCFA
+Vous avez 12 ans, et votre billet est de 1500 FCFA
+Vous avez 13 ans, et votre billet est de 1500 FCFA
+Vous avez 14 ans, et votre billet est de 1500 FCFA
+Vous avez 15 ans, et votre billet est de 1500 FCFA
+
+Age 16 à 20 : 5 billets à 2500 FCFA = 12500 FCFA
+Vous avez 16 ans, et votre billet est de 2500 FCFA
+Vous avez 17 ans, et votre billet est de 2500 FCFA
+Vous avez 18 ans, et votre billet est de 2500 FCFA
+Vous avez 19 ans, et votre billet est de 2500 FCFA
+Vous avez 20 ans, et votre billet est de 2500 FCFA
+
+Vous avez 11 ans, et votre billet est de 1500 FCFA
+Vous avez 12 ans, et votre billet est de 1500 FCFA
+Vous avez 13 ans, et votre billet est de 1500 FCFA
+Vous avez 14 ans, et votre billet est de 1500 FCFA
+Vous avez 15 ans, et votre billet est de 1500 FCFA
+Vous avez 16 ans, et votre billet est de 2500 FCFA
+Vous avez 17 ans, et votre billet est de 2500 FCFA
+Vous avez 18 ans, et votre billet est de 2500 FCFA
+Vous avez 19 ans, et votre billet est de 2500 FCFA
+Vous avez 20 ans, et votre billet est de 2500 FCFA
+La recette totale est de 20000 FCFA
+Le nombre de billets vendus à 1500 FCFA est égal à : 5
+Le nombre de billets vendus à 2500 FCFA est égal à : 5
+PS C:\Users\DELL\Documents\recette-cinema> node partie2.js
+Vous avez 11 ans, et votre billet est de 1500 FCFA
+Vous avez 12 ans, et votre billet est de 1500 FCFA
+Vous avez 13 ans, et votre billet est de 1500 FCFA
+Vous avez 14 ans, et votre billet est de 1500 FCFA
+Vous avez 15 ans, et votre billet est de 1500 FCFA
+Vous avez 16 ans, et votre billet est de 2500 FCFA
+Vous avez 17 ans, et votre billet est de 2500 FCFA
+Vous avez 18 ans, et votre billet est de 2000 FCFA
+Vous avez 19 ans, et votre billet est de 2000 FCFA
+Vous avez 20 ans, et votre billet est de 2000 FCFA
+La recette totale est de 20000 FCFA
+Le nombre de billets vendus à 1500 FCFA est égal à : 5
+Le nombre de billets vendus à 2500 FCFA est égal à : 5
+
+Recette totale : 20000 FCFA
+Billets à 1500 FCFA : 5
+Billets à 2500 FCFA : 5
